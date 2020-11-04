@@ -4,7 +4,15 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hola mundo"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    cout<<"Modificaciones windows"<<endl;
+    
     
     
 }
