@@ -4,7 +4,12 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hola mundo"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
+    cout<<"Modificaciones Ubuntu"<<endl;
     
     
 }
